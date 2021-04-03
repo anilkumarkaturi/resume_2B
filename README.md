@@ -33,6 +33,7 @@ Address:**gorantla**
 ### CERTIFICATIONS
 -COMPLETED PYTHON FOR EVERYBODY ON **COURSERA**
 -CERTIFIED BY **FULLSTACK** NANO DEGREE IN HOODA CITY
+-certified by machine learning in **unschool**
 
 
 
