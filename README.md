@@ -8,9 +8,9 @@ Address:**gorantla**
 
 ### Education Details
 -B.tech
--** RVR&JC COLLEGE OF ENGENEERING**
+-**RVR&JC COLLEGE OF ENGENEERING**
 -**CSE**
--** 2019 -2023**
+-**2019 -2023**
 -**GUNTUR,ANDHRAPRADESH,INDIA**
 
 ### INTERMEDIATE DETAILS
