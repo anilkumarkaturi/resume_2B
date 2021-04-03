@@ -38,5 +38,6 @@ Address:**gorantla**
 
 ### hobbies
 -**playing cricket**
+-**watching movies**
 
 
