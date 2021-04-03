@@ -23,8 +23,8 @@ Address:**gorantla**
 -**9.7**
 -**GUNTUR**
 
-###TECHNICAL SKILLS
--**C8*
+### TECHNICAL SKILLS
+-**C8**
 -**JAVA**
 -**PYTHON**
 -**DBMS**
